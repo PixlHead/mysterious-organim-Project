@@ -88,3 +88,5 @@ tempOBJ.mutate();
 //console.log(tempOBJ.mutate());
 
 console.log(tempOBJ1.willLikelySurvive());
+
+console.log('test')
